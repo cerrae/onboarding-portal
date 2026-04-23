@@ -2,7 +2,7 @@
 
 > A complete process documentation portal standardizing staff onboarding across roles and locations — built from real workflow redesign work at Charlotte Dentistry and IllustraDENT.
 
-**[🚀 Live Demo](https://yourusername.github.io/onboarding-portal)** &nbsp;|&nbsp; Built by [Sun Cerrae Quinones](https://linkedin.com/in/suncerrae)
+**[🚀 Live Demo](https://cerrae.github.io/onboarding-portal)** &nbsp;|&nbsp; Built by [Sun Cerrae Quinones](https://linkedin.com/in/suncerrae)
 
 ---
 
@@ -97,7 +97,7 @@ git clone https://github.com/yourusername/onboarding-portal.git
 open index.html
 ```
 
-Or visit the **[live demo](https://yourusername.github.io/onboarding-portal)**.
+Or visit the **[live demo](https://cerrae.github.io/onboarding-portal)**.
 
 ---
 
@@ -107,4 +107,4 @@ Built by **Sun Cerrae Quinones** — Digital Project Coordinator with 8+ years o
 
 - 📧 suncquinones@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/suncerrae)
-- 🗂 [Full Portfolio](https://github.com/yourusername)
+- 🗂 [Full Portfolio](https://github.com/cerrae)
